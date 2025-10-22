@@ -11,3 +11,5 @@ Completed Leetcode problem 2011
 Sad day did not do anything
 
 ## Day-4 (22nd October 2025)
+Tried to do a leetcode problem but failed to complete
+Also learned some aptitude questions
