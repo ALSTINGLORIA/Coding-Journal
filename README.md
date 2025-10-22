@@ -8,3 +8,6 @@ Going to learn about some computer hardware components basics.
 Completed Leetcode problem 2011 
 
 ## Day-3 (21st October 2025)
+Sad day did not do anything
+
+## Day-4 (22nd October 2025)
