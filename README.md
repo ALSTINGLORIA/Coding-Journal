@@ -12,4 +12,7 @@ Sad day did not do anything
 
 ## Day-4 (22nd October 2025)
 Tried to do a leetcode problem but failed to complete
-Also learned some aptitude questions
+Also learned some aptitude questions.
+
+## Day-5 (23rd  October 2025)
+Going to do some aptitude questions.
