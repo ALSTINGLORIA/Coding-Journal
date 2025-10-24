@@ -19,4 +19,5 @@ Going to do some aptitude questions.
 completed leetcode problem 3461
 
 ## Day-6 (24th October 2025)
-I am trying to a do a leetcode problem but not able to complete it.
+Problem 2048 leetcode completed.
+
