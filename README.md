@@ -17,3 +17,6 @@ Also learned some aptitude questions.
 ## Day-5 (23rd  October 2025)
 Going to do some aptitude questions.
 completed leetcode problem 3461
+
+## Day-6 (24th October 2025)
+I am trying to a do a leetcode problem but not able to complete it.
