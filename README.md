@@ -21,3 +21,6 @@ completed leetcode problem 3461
 ## Day-6 (24th October 2025)
 Problem 2048 leetcode completed. Tried a question from interview bit site but couldn't complete it.
 
+## Day -7 (25th October 2025)
+
+
