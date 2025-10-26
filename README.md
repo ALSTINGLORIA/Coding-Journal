@@ -24,4 +24,5 @@ Problem 2048 leetcode completed. Tried a question from interview bit site but co
 ## Day -7 (25th October 2025)
 completed leetcode problem 1716.
 
+## Day -8(26th October 2025)
 
