@@ -26,3 +26,9 @@ completed leetcode problem 1716.
 
 ## Day -8(26th October 2025)
 problem 2043, 70, 198 done
+
+## Day -9 (27th October)
+Did some few programs but forgot to update
+
+## Day -10(28th October)
+Learning some compiler programs
