@@ -32,3 +32,9 @@ Did some few programs but forgot to update
 
 ## Day -10(28th October)
 Learning some compiler programs
+
+## Day -11 (29th October)
+Did nothing
+
+## Day -12 (30th October)
+
