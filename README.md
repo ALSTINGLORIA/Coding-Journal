@@ -37,4 +37,8 @@ Learning some compiler programs
 Did nothing
 
 ## Day -12 (30th October)
+Did Nothing
+
+## Day -13 (31st October)
+3289 problem solved.
 
