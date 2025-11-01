@@ -42,3 +42,6 @@ Did Nothing
 ## Day -13 (31st October)
 3289 problem solved.
 
+## Day-14 (1st Nov)
+did nothing🥺
+
