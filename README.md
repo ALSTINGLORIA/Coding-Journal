@@ -45,3 +45,6 @@ Did Nothing
 ## Day-14 (1st Nov)
 did nothing🥺
 
+## Day-15 (2nd Nov)
+again nothing
+
