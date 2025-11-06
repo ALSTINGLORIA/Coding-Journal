@@ -48,4 +48,8 @@ did nothing🥺
 ## Day-15 (2nd Nov)
 again nothing
 
-##
+## Day-16, 17, 18 
+did nothing and feel like failure
+
+## Day 19 (6th Nov)
+Going to do some aptitude questions.
