@@ -53,3 +53,9 @@ did nothing and feel like failure
 
 ## Day 19 (6th Nov)
 Going to do some aptitude questions.
+
+## Day 20 , 21
+did nothing and wasted my time
+
+## Day 22
+
