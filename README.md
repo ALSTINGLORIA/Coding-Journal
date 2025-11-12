@@ -58,4 +58,4 @@ Going to do some aptitude questions.
 did nothing and wasted my time
 
 ## Day 22
-
+did nothing
