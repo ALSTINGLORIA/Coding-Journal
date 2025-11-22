@@ -60,3 +60,7 @@ did nothing and wasted my time
 ## Day 22
 did nothing
 
+## Day 23 (22nd Nov)
+Long time so we are going to restart from today
+
+
