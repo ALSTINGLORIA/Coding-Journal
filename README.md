@@ -63,4 +63,11 @@ did nothing
 ## Day 23 (22nd Nov)
 Long time so we are going to restart from today
 
+## Day 24 (27 Nov)
+Decided that i will start a December goal challenge from today onwards.
+Challenge is as follows:
+Daily two medium level leetcode questions.
+Learn Node Js
+Practice aptitude
+
 
