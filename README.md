@@ -70,4 +70,6 @@ Daily two medium level leetcode questions.
 Learn Node Js
 Practice aptitude
 
+## Day 25 (28 Nov)
+Prepare cognizant placement
 
