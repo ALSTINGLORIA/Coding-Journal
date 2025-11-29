@@ -73,3 +73,5 @@ Practice aptitude
 ## Day 25 (28 Nov)
 Prepare cognizant placement
 
+## Day 26 (29 Nov)
+I believe today i will change my fortunes good luck to me.
