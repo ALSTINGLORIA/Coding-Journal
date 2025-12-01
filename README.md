@@ -75,3 +75,6 @@ Prepare cognizant placement
 
 ## Day 26 (29 Nov)
 I believe today i will change my fortunes good luck to me.
+
+## Day 27 (1st Dec)
+Todays Onwards December Challenge begins. Did one leetcode question.
