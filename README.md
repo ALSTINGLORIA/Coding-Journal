@@ -78,3 +78,6 @@ I believe today i will change my fortunes good luck to me.
 
 ## Day 27 (1st Dec)
 Todays Onwards December Challenge begins. Did one leetcode question.
+
+## Day 28 (2nd Dec)
+Hope to learn Flask and backend.
