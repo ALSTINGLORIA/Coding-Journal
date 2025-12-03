@@ -81,3 +81,7 @@ Todays Onwards December Challenge begins. Did one leetcode question.
 
 ## Day 28 (2nd Dec)
 Hope to learn Flask and backend.
+
+## Day 29 (3rd Dec)
+doing leetcode problems
+
