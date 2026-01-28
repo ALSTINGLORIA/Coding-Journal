@@ -85,3 +85,5 @@ Hope to learn Flask and backend.
 ## Day 29 (3rd Dec)
 doing leetcode problems
 
+## Day 30 (Jan 28)
+We are going to restart our jorney after a long time. So Now we are gonna have a proper focus to change the world. Lets GOOOOO...
