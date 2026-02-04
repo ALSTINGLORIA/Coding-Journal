@@ -90,3 +90,6 @@ We are going to restart our jorney after a long time. So Now we are gonna have a
 
 ## Day 31 (1st Feb)
 Started with html basics
+
+## Day 32 (4th Feb)
+Trying to learn flask post methods and trying to use forms adn login pages.
